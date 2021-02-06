@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Whatsapp Lite",
+  "name": "Live group chat with google authentication using React and Firebase",
   "icons": [
     {
       "src": "favicon.ico",
